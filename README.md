@@ -1,5 +1,8 @@
 # ALKEMY JAVA TECHNICAL CHALLENGE - WALLET
 
+### The project requirements are in:
+### Wallet requirements.pdf (eng) or Requerimientos Wallet.pdf (esp)
+
 ### PROJECT SETUP & TOOLS
 
 1. JDK 17
