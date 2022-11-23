@@ -1,7 +1,6 @@
 # ALKEMY JAVA TECHNICAL CHALLENGE - WALLET
 
-### The project requirements are in:
-### Wallet requirements.pdf (eng) or Requerimientos Wallet.pdf (esp)
+### [Project requirements](https://github.com/4nR3/Skill-Up-Java/blob/master/Requerimientos%20Wallet.pdf)
 
 ### PROJECT SETUP & TOOLS
 
